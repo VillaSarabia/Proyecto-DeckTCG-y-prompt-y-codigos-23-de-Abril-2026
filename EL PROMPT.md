@@ -1,4 +1,4 @@
-el Prompr
+el Prompt
 
 proyecto cartascrud en flutter con console firebase, proporciona un plan de trabajo de acuerdo a lo siguiente: 
 1. creación de carpeta xflutterVilla0227 y sub carpeta crudtcg, 
